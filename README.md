@@ -1,7 +1,7 @@
 Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is my about me.
 =============================================================================================================================================================
 
- I'm Aayush Kumar, a Python, AI and Robotics Specialist and a soon-to-be Full Stack Developer
+ I'm Aayush Kumar, a Python, AI and Robotics Specialist and a Full Stack Developer
 --------------
 
 I've been programming since I was 8 years old and have used a various amount of different programming languages and tools. I love to code and listen to music.
