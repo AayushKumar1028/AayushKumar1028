@@ -8,7 +8,7 @@ I've been programming since I was 8 years old and have used a various amount of 
 
 *   🌍  I'm from Brampton, Canada
 *   ✉️  You can email me for any questions you might have at [kumarkids.aayush@gmail.com](mailto:kumarkids.aayush@gmail.com)
-*   ⚙️  I'm currently working on [HTML](http://github.com/AayushKumar1028/English-Semester-Final-Website)
+*   ⚙️  I'm currently working on [Instachat](https://github.com/AayushKumar1028/Insta-chat)
 *   🧠  I'm currently learning AI and ML, along with WPI-Lib for Robotics.
 *   🤖  I'm the programming lead for the FRC Robotics High School Team 3560 Mechawolves
 *   👥  I'm interested in competing in hackathons with other people. You can email me for any offers.
